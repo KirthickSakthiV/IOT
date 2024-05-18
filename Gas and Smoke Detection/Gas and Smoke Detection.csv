@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2"
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1",1,"220 Ω Resistor"
+"GAS1",1," Gas Sensor"
+"D1",1,"Red LED"
+"R4, R3, R5",3,"100 Ω Resistor"
+"R2",1,"20 kΩ Resistor"
+"D2",1,"Yellow LED"
+"D3",1,"Green LED"
